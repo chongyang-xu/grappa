@@ -1,5 +1,8 @@
 /**
  *  Copyright (c) 2024 by Data Systems Group, MPI-SWS
+ *  All rights reserved.
+ *
+ *  Author: Chongyang Xu <cxu@mpi-sws.org>
  */
 #ifndef CSRC_PYTHON_PY_SEQ_CHUNKING_H_
 #define CSRC_PYTHON_PY_SEQ_CHUNKING_H_

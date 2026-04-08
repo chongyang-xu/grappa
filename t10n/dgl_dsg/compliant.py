@@ -1,3 +1,8 @@
+#  Copyright (c) 2024 by Data Systems Group, MPI-SWS
+#  All rights reserved.
+#
+#  Author: Chongyang Xu <cxu@mpi-sws.org>
+
 from t10n._C.graph import Batch
 from t10n.util import timing
 
